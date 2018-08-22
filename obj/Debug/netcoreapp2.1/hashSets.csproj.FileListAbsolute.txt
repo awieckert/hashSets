@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\bin\Debug\netcoreapp2.1\hashSets.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\bin\Debug\netcoreapp2.1\hashSets.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\bin\Debug\netcoreapp2.1\hashSets.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\bin\Debug\netcoreapp2.1\hashSets.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\bin\Debug\netcoreapp2.1\hashSets.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\obj\Debug\netcoreapp2.1\hashSets.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\obj\Debug\netcoreapp2.1\hashSets.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\obj\Debug\netcoreapp2.1\hashSets.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\obj\Debug\netcoreapp2.1\hashSets.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\obj\Debug\netcoreapp2.1\hashSets.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\hashSets\obj\Debug\netcoreapp2.1\hashSets.pdb
